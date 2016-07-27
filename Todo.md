@@ -1,0 +1,6 @@
+- add a links page
+- add a photo gallery
+- update colour scheme?
+- ADD A GOOGLE CUSTOM SEARCH!
+- make less obvious buttons for next and previous
+- add tag archives?
