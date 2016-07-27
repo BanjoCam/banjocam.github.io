@@ -208,6 +208,16 @@ compress_html:
     envs: development
 
 defaults:
+    #_pages
+    - 
+        scope:
+            path: ""
+            type: "pages"
+        values:
+            layout: "single"
+            author_profile: true
+            share: false
+            related: false
     #_posts
     - 
         scope:
