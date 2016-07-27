@@ -47,7 +47,7 @@ body:hover .visually-hidden button {
 
 .screen-reader-text:focus,
 .screen-reader-shortcut:focus  {
-  cli
+  clip: auto !important;
   height: auto !important;
   width: auto !important;
   display: block;
@@ -347,7 +347,7 @@ body:hover .visually-hidden button {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
-    bottom: 2em;
+    top: 2em;
 
     > * {
       display: block;
