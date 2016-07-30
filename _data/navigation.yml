@@ -5,3 +5,6 @@ main:
 
   - title: "Links"
     url: "/links/"
+
+  - title: "Search"
+    url: "/search/"
