@@ -1,5 +1,5 @@
 ﻿---
-permalink: "/links/"
+permalink: /links/
 title: "Useful Links"
 layout: single
 ---
