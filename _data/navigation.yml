@@ -3,5 +3,5 @@ main:
   - title: "About"
     url: "/about/"
 
-#  - title: "Sample Navigation Link 2"
-#    url: /
+  - title: "Links"
+    url: "/links/"
