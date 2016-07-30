@@ -4,4 +4,4 @@ title: "Useful Links"
 layout: single
 ---
 
-[www.google.ca]
+Coming soon
