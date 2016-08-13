@@ -2,6 +2,7 @@
 title: "Interpretation of Urine Culture Colony Counts"
 excerpt: "Can you always ignore below-threshold CFU counts?"
 category: "Medicine"
+modified: 2016-08-12
 tags:
     - Infectious Disease
     - Urine Culture
@@ -40,8 +41,8 @@ the bacteria will have had the longest time period to replicate. Given that
 most scientific studies will strive to follow ideal practice, this >100 x 10^6
 established threshold could have been determined from studies where they
 consistently drew this optimal morning culture. Unfortunately, what appears to
-be the originating study - from 1956! - on colony counts, doesn't specify what
-time of day the cultures were drawn. [Asymptomatic infections of the urinary tract.](http://www.ncbi.nlm.nih.gov/pubmed?term=13380946)
+be the [originating study ](http://www.ncbi.nlm.nih.gov/pubmed?term=13380946)- from 1956! - on colony counts, doesn't specify what
+time of day the cultures were drawn. 
 
 In practice, the most we can usually hope for is that the culture is drawn
 prior to the first dose of antibiotics. 
