@@ -37,6 +37,7 @@ we don't have to use QID.
 
 ***
 [<i>Editorial Commentary</i> : Potential Risks and Rewards With Prophylaxis for <i>Clostridium difficile</i> Infection](http://cid.oxfordjournals.org/lookup/doi/10.1093/cid/ciw424)
+_Clinical Infectious Diseases, 2016_  
 
 The author of this commentary presents some interesting points that I wasn't
 aware of. For instance, he references several papers showing that vanco has a
