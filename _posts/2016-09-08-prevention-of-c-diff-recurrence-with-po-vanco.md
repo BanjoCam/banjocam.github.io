@@ -1,7 +1,5 @@
 ---
 title: "Prevention of C. Diff Recurrence with PO Vanco"
-excerpt: "A recent paper published in Clinical Infectious Diseases showed
-potential for prevention of recurrence..."
 category: Medicine
 tags:
     - Infectious Disease
