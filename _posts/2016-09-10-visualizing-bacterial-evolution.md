@@ -2,7 +2,7 @@
 title: "Visualizing Bacterial Evolution"
 ---
 
-I usually think of a "mega-plate" as what I end up with when I got to the
+I usually think of a "mega-plate" as what I end up with when I go to the
 buffet...  
 
 [http://gizmodo.com/watch-as-bacteria-evolve-antibiotic-resistance-in-a-gig-1786389688](http://gizmodo.com/watch-as-bacteria-evolve-antibiotic-resistance-in-a-gig-1786389688)  
