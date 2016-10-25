@@ -22,5 +22,3 @@ least the med rec seemed to be accurate.
 
 (Was this a post for the sake of making a post? Yes! But I am just trying to
 get in the habit of writing more.)
-
-test
