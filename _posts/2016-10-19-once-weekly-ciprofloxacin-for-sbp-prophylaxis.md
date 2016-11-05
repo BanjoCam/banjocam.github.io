@@ -3,9 +3,7 @@ title: "Once Weekly Ciprofloxacin for SBP Prophylaxis"
 category: Medicine
 tags:
     - Infectious Disease
-    - UTI
-    - Antifungals
-    - Echinocandins
+    - Fluoroquinolones
 ---
 
 We had a patient today whose med history showed ciprofloxacin 750mg PO weekly for
