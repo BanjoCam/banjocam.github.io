@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-layout: log
+layout: single
 title: "Pharmacy Learning Portfolio"
 ---
 
