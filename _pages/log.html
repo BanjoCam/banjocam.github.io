@@ -14,9 +14,9 @@ title: "Pharmacy Learning Portfolio"
         </tr>
     </thead>
     <tbody>
-        {% for entry in site.data.portfolio %}
+        {% for entry in site.data.portfolio reversed %}
         <tr>
-            <td>{{ entry.date }}</td>
+            <td>{{ entry.date | date: '%B %d, %Y' }}</td>
             <td>{{ entry.title }}</td>
         </tr>
         {% endfor %}
