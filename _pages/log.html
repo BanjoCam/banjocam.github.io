@@ -1,0 +1,15 @@
+---
+permalink: /portfolio/
+layout: single
+title: "Pharmacy Learning Portfolio"
+---
+
+<hr>
+
+<ul>
+    {% for entry in site.data.portfolio %}
+    <li>
+        <em>{{ portfolio.Name }}</em> {{ portfolio.date }}
+    </li>
+    {% endfor %}
+</ul>
