@@ -9,7 +9,7 @@ title: "Pharmacy Learning Portfolio"
 <ul>
     {% for entry in site.data.portfolio %}
     <li>
-        <em>{{ portfolio.Name }}</em> {{ portfolio.date }}
+        <em>{{ entry.name }}</em> {{ entry.date }}
     </li>
     {% endfor %}
 </ul>
