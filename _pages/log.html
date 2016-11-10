@@ -20,7 +20,7 @@ title: "Pharmacy Learning Portfolio"
             {% if entry.link == null %}
             <td>{{ entry.title }} <span style="font-size: small">({{ entry.action }})</span></td>
             {% else %}
-            <td><a href="{{ entry.link }}" target="_blank">{{ entry.title }}</td>
+            <td><a href="{{ entry.link }}" target="_blank">{{ entry.title }} <span style="font-size: small">({{ entry.action }})</span></td>
             {% endif %}
         </tr>
         {% endfor %}
