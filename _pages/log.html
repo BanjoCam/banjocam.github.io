@@ -17,8 +17,12 @@ title: "Pharmacy Learning Portfolio"
         {% for entry in site.data.portfolio reversed %}
         <tr>
             <td>{{ entry.date | date_to_string }}</td>
+            {{% if entry.link == null %}}
             <td>{{ entry.title }}</td>
+            {{% else %}}
+            <td><a href="{{ entry.link }}" target="_blank">{{ entry.title }}</td>
+            {{% endif %}}
         </tr>
-        {% endfor %}
+        {{% endfor %}}
     </tbody>
 </table>
