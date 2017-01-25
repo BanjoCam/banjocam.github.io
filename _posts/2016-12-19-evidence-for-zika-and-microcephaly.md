@@ -1,7 +1,8 @@
 ---
 title: New Evidence Regarding Zika and Microcephaly
+category: Medicine
 tags:
-    - interesting
+    - Interesting
 ---
 
 [Zika Virus RNA Replication and Persistence in Brain and Placental Tissue](https://wwwnc.cdc.gov/eid/article/23/3/16-1499_article)  
