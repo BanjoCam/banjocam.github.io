@@ -1,6 +1,7 @@
 ---
 title: Limiting Fluoroquinolone Use Linked to Less C Diff
 category: Medicine
+edited: 2017-01-27
 tags:
     - Infectious Disease
     - C Difficile
@@ -19,9 +20,10 @@ Interestingly if you delve into the full paper, it mentions:
 
 > Hospital cephalosporin and fluoroquinolone prescribing were also positively associated with incidence of C difficile infection (CC=0·73, 0·15 to 0·86, and 0·62, −0·09 to 0·81; appendix), but associations were estimated much less precisely given the much smaller population (approximately 1% of England). Positive associations were also observed between C difficile infection decline and decline in extended spectrum penicillins (0·84, 0·24 to 0·90) and beta-lactamase-resistant penicillins (0·67, −0·04 to 0·81; appendix). 
 
-The paper was only fully powered it seems for fluoroquinolones because their prescribing was actually restricted - 
-so they could correlate the reduction in FQ-resistance (secondary to the reduction in use) with the
-reduction in c-diff.  
+The paper was only fully powered it seems for fluoroquinolones because their prescribing was actually restricted.
+The interesting part is they correlated with FQ-sensitive and FQ-resistant strains of c-diff, and once they reduced
+FQ prescribing, the only c-diff infections were with FQ-sensitive c. diff strains. This is a bit confusing to me
+as we never used a FQ to treat c-diff; I had no idea any of the c. diff strains were sensitive.
 
 Conclusion? I'm still not sure which abx are the _worst_ for causing c diff (surely you would even
 need to specific specific cephalosporins rather than the whole class??) so I'll stick to my current
