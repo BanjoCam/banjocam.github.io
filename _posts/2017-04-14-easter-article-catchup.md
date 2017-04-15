@@ -24,7 +24,7 @@ Been far too long since a post - here are some brief summaries of articles or po
 
 ['Virtual' Management Improves In-Hospital Glucose Control](http://www.medscape.com/viewarticle/877721)
 
-- Took a few searches to figure out what a virtual glucose management service is, but essentially it looks like an algorithm built into the EMR that detecs uncontrolled blood glucose
+- Took a few searches to figure out what a virtual glucose management service is, but essentially it looks like an algorithm built into the EMR that detects uncontrolled blood glucose
 - Helped prevent consecutive high glucose readings; basically physicians can lock things down sooner
 - Looks like it'll need far more research to determine if it's really cost effective but it's a cool idea nonetheless
 
@@ -32,7 +32,7 @@ Been far too long since a post - here are some brief summaries of articles or po
 
 - Compared xarelto 10mg daily, 20mg daily, and ASA 100mg for VTE prophylaxis in patients with previous clot
 - 10mg did have efficacy with a small bleed risk, but the trial is sponsored by a drug company
-    - Compared against ASA, which IS recommended in long term prophylaxis once anticoagulation is stopped... still not sure it's a fair comparitor. Anticoagulants SHOULD be more effective than ASA. I guess they're trying to get the guidelines change to low dose NOAC instead.
+    - Compared against ASA, which IS recommended in long term prophylaxis once anticoagulation is stopped... still not sure it's a fair comparitor. Anticoagulants SHOULD be more effective than ASA. I guess they're trying to get the guidelines changed to low dose NOAC instead.
 
 [Continuous Proton Pump Inhibitor Therapy and the Associated Risk of Recurrent Clostridium difficile Infection](http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2173095?issueno=5&quiz=1&accessHash=AB65740118B91E95BD61733C55C1AAB137896566)
 
