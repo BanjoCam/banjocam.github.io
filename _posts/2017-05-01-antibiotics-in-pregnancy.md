@@ -17,3 +17,5 @@ may need reassessed. However, the guidelines also stipulate avoiding use in firs
 the potential for fetal abnormalities (not miscarriage, but as with tetracyclines/quinolones, you
 are already avoiding its use). Given the study focused on 20 weeks and earlier, it looks like
 not much needs changing in current practice, except maybe the use of macrolides.
+
+[Good Medscape Summary Here](http://http://www.medscape.com/viewarticle/879313)
