@@ -3,9 +3,13 @@ title: MedPage Today Roundup
 category: Medicine
 tags:
     - Infectious Diseases
+    - Pharmacology
+    - Diabetes
 ---
 
-I'm trying a new thing where I look back on a few MedPage Today emails and pick out some articles that sound interesting. The summaries are really nice.
+I've started paying more attention to my MedPage Today daily emails, there is some neat stuff in there and the
+summaries are really good! I'm going to start doing roundup posts where I highlight some of the ones I found
+interesting enough to click on.
 
 ***
 [FDA Okays Antioxidant Drug for ALS](http://www.medpagetoday.com/Neurology/GeneralNeurology/65087?xid=nl_mpt_DHE_2017-05-08&eun=g1123932d0r&pos=11)
@@ -18,3 +22,9 @@ I'm trying a new thing where I look back on a few MedPage Today emails and pick 
 
 ***
 [AACE: GLP-1 Receptor Agonist Successful Tx for T1D](https://www.medpagetoday.com/mastery-of-medicine/mastery-in-diabetes-management/65093?xid=nl_mpt_DHE_2017-05-08&eun=g1123932d0r&pos=0)
+
+***
+[Eating Raw Meat Tied to Toxoplasmosis in Japan](https://www.medpagetoday.com/MeetingCoverage/PAS/65128)
+
+***
+[One in Three Newly Approved Drugs Has Safety Issues](https://www.medpagetoday.com/PublicHealthPolicy/FDAGeneral/65139?xid=nl_mpt_DHE_2017-05-10&eun=g1123932d0r&pos=0)
