@@ -21,11 +21,13 @@ tags:
 
 ***
 [Meningitis Vax Works -- for Gonorrhea](https://www.medpagetoday.com/InfectiousDisease/STDs/66531?xid=nl_mpt_DHE_2017-07-11&eun=g1123932d0r&pos=2)
+
 - Vaccine against Neisseria meningitides lead to patients less likely to be diagnosed with gonorrhea
 - Needs more research - esp with all of the resistant gonorrhea (vaccines are likely the only answer)
 - Not sure about different strains, etc
 
 ***
 [CardioBrief: New Studies Reassure on Coffee Safety, Suggest Survival Bump](https://www.medpagetoday.com/Cardiology/CardioBrief/66516?xid=nl_mpt_DHE_2017-07-11&eun=g1123932d0r&pos=0)
+
 - Benefits are not strong enough to recommend coffee in routine practice
 - Absolute no harm to having 3-5 cups of coffee per day, and _may_ actually be beneficial!
