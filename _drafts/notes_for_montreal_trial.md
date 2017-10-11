@@ -47,7 +47,7 @@ Montreal trial
 - failure was opposite of cure, or the need for colectomy, or death after 5 days of therapy
 - <40% of patients in severe group received abx within 14 days prior
 - only 1 adr in each group (flagyl emesis, vanco nausea)
-- hilarious, one study had "acquisition during the spring" as a severity risk factor
+- hilarious, one study had "acquisition during the spring" as a risk factor for recurrence of disease
 - vancomycin has the "potential to increase the prevalnce of vanco resistant organisms"
     - low incidence of complications when vanco is used as initial therapy
 - NAP1 strain have altered tcdC gene -> modifies TcdC proteint that is a negative regulator of toxin A & B production => toxin levels 16-23 fold greater than wild type, more severe disease, and increased number of relapses, and occurance of disease in previously uncommon populations __(outpts, peripartium women, children, and people who never received abx)__
